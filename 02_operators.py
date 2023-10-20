@@ -1,0 +1,6 @@
+# print (2+3)
+# print (13%3)
+# print (12-2)
+# print (2**3)
+# print (3/2)
+print (3//2)
